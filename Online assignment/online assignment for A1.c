@@ -4,7 +4,7 @@
 int main()
 {
     char a[30]="abcabc" ;
-    char b[10]="abc" ;
+    char b[15]="abc" ;
 
     int cmp , flag=0 ,i=0,j=0 ,la,lb ;
 
